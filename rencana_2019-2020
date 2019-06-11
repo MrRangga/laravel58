@@ -2,7 +2,6 @@
 -pelajari dalam bentuk studi kasus
 -pelajari javascript framework
   ^angular
-  ^react
+  ^vue
 -pelajari android programing dengan javascript framework 
-  ^flutter
-  ^react native
+  ^native script
